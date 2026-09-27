@@ -1,0 +1,6 @@
+{
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx4G -Xms100m -Xlog:disable",
+    "java.project.referencedLibraries": [
+        "${userHome}/.m2/repository/org/yaml/snakeyaml/2.2/snakeyaml-2.2.jar"
+    ]
+}
